@@ -1,0 +1,17 @@
+request_id,room,program,session_date,start_time,end_time,setup_minutes,status
+RS-101,Atlas,Youth Strings,2111-03-18,08:20,09:00,15,confirmed
+RS-102,Atlas,Poetry Lab,2111-03-18,09:10,09:40,0,confirmed
+RS-103,Atlas,Modern Dance,2111-03-18,09:35,10:30,10,confirmed
+RS-104,Atlas,Brass Ensemble,2111-03-18,10:45,11:30,10,confirmed
+RS-105,Atlas,Gallery Talk,2111-03-18,11:35,12:00,0,confirmed
+RS-106,Beacon,Chamber Choir,2111-03-18,08:00,08:50,20,confirmed
+RS-107,Beacon,Stage Combat,2111-03-18,08:55,09:25,0,confirmed
+RS-108,Beacon,Improv Circle,2111-03-18,09:30,10:10,5,confirmed
+RS-109,Beacon,Film Club,2111-03-18,10:05,10:40,0,confirmed
+RS-110,Beacon,Clay Workshop,2111-03-18,10:50,11:20,10,cancelled
+RS-111,Beacon,Evening Jazz,2111-03-18,17:00,18:00,15,confirmed
+RS-112,Atlas,Archive Reading,2111-03-19,09:00,10:00,10,confirmed
+RS-113,Atlas,Early Yoga,2111-03-18,07:50,08:20,0,confirmed
+RS-114,Beacon,Open Studio,2111-03-18,16:30,18:30,0,confirmed
+RS-BAD,Atlas,Broken Row,2111-03-18,13:00,13:30,05,confirmed
+RS-115,Atlas,Malformed,2111-02-30,13:00,13:30,5,confirmed
