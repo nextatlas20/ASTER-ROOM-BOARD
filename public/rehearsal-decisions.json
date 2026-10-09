@@ -1,0 +1,95 @@
+{
+  "service_date": "2111-03-18",
+  "rooms": [
+    {
+      "room": "Atlas",
+      "accepted": 4,
+      "rejected": 1,
+      "decisions": [
+        {
+          "request_id": "RS-101",
+          "program": "Youth Strings",
+          "occupied_start": "08:05",
+          "occupied_end": "09:00",
+          "decision": "accepted"
+        },
+        {
+          "request_id": "RS-102",
+          "program": "Poetry Lab",
+          "occupied_start": "09:10",
+          "occupied_end": "09:40",
+          "decision": "accepted"
+        },
+        {
+          "request_id": "RS-103",
+          "program": "Modern Dance",
+          "occupied_start": "09:25",
+          "occupied_end": "10:30",
+          "decision": "rejected"
+        },
+        {
+          "request_id": "RS-104",
+          "program": "Brass Ensemble",
+          "occupied_start": "10:35",
+          "occupied_end": "11:30",
+          "decision": "accepted"
+        },
+        {
+          "request_id": "RS-105",
+          "program": "Gallery Talk",
+          "occupied_start": "11:35",
+          "occupied_end": "12:00",
+          "decision": "accepted"
+        }
+      ]
+    },
+    {
+      "room": "Beacon",
+      "accepted": 4,
+      "rejected": 1,
+      "decisions": [
+        {
+          "request_id": "RS-106",
+          "program": "Chamber Choir",
+          "occupied_start": "07:40",
+          "occupied_end": "08:50",
+          "decision": "accepted"
+        },
+        {
+          "request_id": "RS-107",
+          "program": "Stage Combat",
+          "occupied_start": "08:55",
+          "occupied_end": "09:25",
+          "decision": "accepted"
+        },
+        {
+          "request_id": "RS-108",
+          "program": "Improv Circle",
+          "occupied_start": "09:25",
+          "occupied_end": "10:10",
+          "decision": "accepted"
+        },
+        {
+          "request_id": "RS-109",
+          "program": "Film Club",
+          "occupied_start": "10:05",
+          "occupied_end": "10:40",
+          "decision": "rejected"
+        },
+        {
+          "request_id": "RS-111",
+          "program": "Evening Jazz",
+          "occupied_start": "16:45",
+          "occupied_end": "18:00",
+          "decision": "accepted"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "accepted": 8,
+    "rejected": 2,
+    "program_minutes": 320,
+    "setup_minutes": 65
+  }
+}
